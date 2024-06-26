@@ -16,6 +16,7 @@ return new class extends Migration
             $table->string('nama_poli');
             $table->longText('deskripsi_poli');
             $table->text('gambar_poli')->nullable();
+            $table->string('slug', 400);
             $table->timestamps();
         });
     }

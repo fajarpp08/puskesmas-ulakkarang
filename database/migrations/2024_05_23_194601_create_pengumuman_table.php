@@ -18,6 +18,7 @@ return new class extends Migration
             $table->date('tanggal_pengumuman');
             $table->text('gambar_pengumuman')->nullable();
             $table->string('lama_pengumuman');
+            $table->string('slug', 400);
             $table->timestamps();
         });
     }

@@ -11,7 +11,8 @@
             <a href="/" class="nav-link">Dashboard User</a>
         </li>
         <li class="nav-item d-none d-sm-inline-block">
-            <a href="https://wa.me/6281218173646?text=Halo,%20Saya%20ingin%20bertanya%20tentang%20Website%20Puskesmas%20Ulak%20Karang" class="nav-link">Contact</a>
+            <a href="https://wa.me/6283196309831?text=Halo,%20Saya%20ingin%20bertanya%20tentang%20Website%20Puskesmas%20Ulak%20Karang"
+                class="nav-link">Contact</a>
         </li>
     </ul>
 
@@ -71,7 +72,7 @@
                 </li>
                 <!-- Menu Footer-->
                 <li class="user-footer">
-                    <a href="#" class="btn btn-default btn-flat">Profile</a>
+                    {{-- <a href="#" class="btn btn-default btn-flat">Profile</a> --}}
                     <a href="/logout" class="btn btn-default btn-flat float-right">Sign out</a>
                 </li>
             </ul>

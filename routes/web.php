@@ -27,6 +27,20 @@ Route::get('/', function () {
     return view('home');
 });
 Route::get('/', [DashboardController::class, 'dashboardUser'])->name('dashboardUser');
+Route::get('/profil', [DashboardController::class, 'profil'])->name('profil');
+Route::get('/sejarah', [DashboardController::class, 'sejarah'])->name('sejarah');
+Route::get('/poliklinik', [DashboardController::class, 'poliklinik'])->name('poliklinik');
+Route::get('/poliklinik/{slug}', [DashboardController::class, 'poliklinikDetail'])->name('poliklinikDetail');
+Route::get('/instalasi', [DashboardController::class, 'instalasi'])->name('instalasi');
+Route::get('/alur', [DashboardController::class, 'alur'])->name('alur');
+Route::get('/program', [DashboardController::class, 'program'])->name('program');
+Route::get('/program/{slug}', [DashboardController::class, 'programDetail'])->name('programDetail');
+Route::get('/struktur', [DashboardController::class, 'struktur'])->name('struktur');
+Route::get('/berita', [DashboardController::class, 'berita'])->name('berita');
+Route::get('/berita/{slug}', [DashboardController::class, 'beritaDetail'])->name('beritaDetail');
+Route::get('/galeri', [DashboardController::class, 'galeri'])->name('galeri');
+Route::get('/pengumuman', [DashboardController::class, 'pengumuman'])->name('pengumuman');
+Route::get('/pengumuman/{slug}', [DashboardController::class, 'pengumumanDetail'])->name('pengumumanDetail');
 
 Route::middleware(['auth'])->group(function () {
     Route::get('logout', [AuthController::class, 'logout']);
@@ -45,7 +59,6 @@ Route::middleware(['auth'])->group(function () {
         Route::resource('data-berita', BeritaController::class);
         Route::resource('data-alur', AlurController::class);
         Route::resource('data-program', ProgramController::class);
-       
     });
 });
 

@@ -19,6 +19,7 @@ return new class extends Migration
             $table->date('tanggal_mulai');
             $table->date('tanggal_akhir');
             $table->string('lokasi_program');
+            $table->string('slug', 400);
             $table->timestamps();
         });
     }

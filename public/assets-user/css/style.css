@@ -1,17 +1,17 @@
-
 /*** Spinner Start ***/
 #spinner {
     opacity: 0;
     visibility: hidden;
     transition: opacity .8s ease-out, visibility 0s linear .5s;
     z-index: 99999;
- }
+}
 
- #spinner.show {
-     transition: opacity .8s ease-out, visibility 0s linear .0s;
-     visibility: visible;
-     opacity: 1;
- }
+#spinner.show {
+    transition: opacity .8s ease-out, visibility 0s linear .0s;
+    visibility: visible;
+    opacity: 1;
+}
+
 /*** Spinner End ***/
 
 .back-to-top {
@@ -77,7 +77,7 @@
 }
 
 .link-hover:hover {
-    color: var(--bs-primary) !important;
+    color: var(--bs-success) !important;
 }
 
 
@@ -121,7 +121,7 @@
     .sticky-top .top-link {
         display: none;
     }
-    
+
 }
 
 .topbar .top-link a {
@@ -137,7 +137,7 @@
 }
 
 .topbar .top-link a small:hover i {
-    color: var(--bs-primary) !important;
+    color: var(--bs-success) !important;
 }
 
 #note {
@@ -149,8 +149,13 @@
 }
 
 @keyframes noteAnimate {
-    from {left: -735px;}
-    to {left: 735px;}
+    from {
+        left: -735px;
+    }
+
+    to {
+        left: 735px;
+    }
 }
 
 /*** Topbar End ***/
@@ -168,7 +173,7 @@
 .navbar .navbar-nav .nav-link.active,
 .sticky-top.bg-white .navbar .navbar-nav .nav-link:hover,
 .sticky-top.bg-white .navbar .navbar-nav .nav-link.active {
-    color: var(--bs-primary);
+    color: var(--bs-success);
 }
 
 .navbar .dropdown-toggle::after {
@@ -197,7 +202,7 @@
 
 .dropdown .dropdown-menu a:hover {
     background: var(--bs-secondary);
-    color: var(--bs-primary);
+    color: var(--bs-success);
 }
 
 .navbar .nav-item:hover .dropdown-menu {
@@ -218,6 +223,7 @@
 #searchModal .modal-content {
     background: rgba(255, 255, 255, .8);
 }
+
 /*** Navbar End ***/
 
 
@@ -229,6 +235,7 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 /*** Features End ***/
 
 
@@ -249,11 +256,12 @@
     right: 0;
     opacity: 0.2;
 }
+
 /*** Top News End ***/
 
 
 /*** Latest News Start ***/
-.latest-news .latest-news-carousel.owl-carousel{
+.latest-news .latest-news-carousel.owl-carousel {
     position: relative;
 }
 
@@ -265,7 +273,7 @@
     padding: 2px 20px;
     transition: 0.5s;
     margin-right: 10px;
-    border: 1px solid var(--bs-primary);
+    border: 1px solid var(--bs-success);
     color: var(--bs-dark);
     border-radius: 20px;
 }
@@ -278,17 +286,18 @@
     margin-left: 10px;
     padding: 2px 20px;
     transition: 0.5s;
-    border: 1px solid var(--bs-primary);
+    border: 1px solid var(--bs-success);
     color: var(--bs-dark);
     border-radius: 20px;
 }
 
 .latest-news .latest-news-carousel.owl-carousel .owl-nav .owl-prev:hover,
 .latest-news .latest-news-carousel.owl-carousel .owl-nav .owl-next:hover {
-    background: var(--bs-primary);
+    background: var(--bs-success);
     color: var(--bs-white);
     border-radius: 10px;
 }
+
 /*** Latest News End ***/
 
 
@@ -305,7 +314,7 @@
     padding: 2px 20px;
     transition: 0.5s;
     margin-right: 10px;
-    border: 1px solid var(--bs-primary);
+    border: 1px solid var(--bs-success);
     color: var(--bs-dark);
     border-radius: 20px;
 }
@@ -318,20 +327,20 @@
     margin-left: 10px;
     padding: 2px 20px;
     transition: 0.5s;
-    border: 1px solid var(--bs-primary);
+    border: 1px solid var(--bs-success);
     color: var(--bs-dark);
     border-radius: 20px;
 }
 
 .populer-news .whats-carousel.owl-carousel .owl-nav .owl-prev:hover,
 .populer-news .whats-carousel.owl-carousel .owl-nav .owl-next:hover {
-    background: var(--bs-primary);
+    background: var(--bs-success);
     color: var(--bs-white);
     border-radius: 10px;
 }
 
 .populer-news .tab-class .nav-item a.active {
-    background: var(--bs-primary) !important;
+    background: var(--bs-success) !important;
 }
 
 .lifestyle .lifestyle-item {
@@ -349,16 +358,17 @@
 
 .lifestyle .lifestyle-item .lifestyle-content {
     position: absolute;
-    width: 100%; 
-    height: 100%; 
-    top: 0; 
-    left: 0; 
-    padding: 20px; 
-    display: flex; 
-    flex-direction: column; 
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
     background: rgba(0, 0, 0, 0.3);
     border-radius: 10px;
 }
+
 /*** Whats New End ***/
 
 
@@ -381,13 +391,14 @@
     background: linear-gradient(rgba(26, 125, 255, 0.7), rgba(255, 255, 255, 0.7));
     z-index: 2;
 }
+
 /*** Banner Section End ***/
 
 
 /*** Footer Start ***/
 .footer button:hover {
     background: var(--bs-white) !important;
-    color: var(--bs-primary) !important;
+    color: var(--bs-success) !important;
 }
 
 .footer .footer-item-1 .line-h {
@@ -399,7 +410,7 @@
 }
 
 .footer .footer-item-1 a:hover i {
-    color: var(--bs-primary) !important;
+    color: var(--bs-success) !important;
 }
 
 .footer .footer-item-3 a {
@@ -411,7 +422,7 @@
 }
 
 .footer .footer-item-2 a:hover {
-    color: var(--bs-primary) !important;
+    color: var(--bs-success) !important;
 }
 
 .footer .footer-item-3 a {
@@ -419,13 +430,11 @@
 }
 
 .footer .footer-item-3 a:hover {
-    color: var(--bs-primary) !important;
+    color: var(--bs-success) !important;
 }
 
 .copyright {
     border-top: 1px solid rgba(255, 255, 255, 0.08);
 }
+
 /*** Footer End ***/
-
-
-
