@@ -32,8 +32,8 @@
                         <a class="btn btn-light me-2 btn-md-square rounded-circle"
                             href="https://www.instagram.com/puskesmasulakkarang?igsh=MTJyZGgydWZ0dTlndA=="><i
                                 class="fab fa-instagram text-dark"></i></a>
-                        <a class="btn btn-light btn-md-square rounded-circle" href=""><i
-                                class="fab fa-youtube text-dark"></i></a>
+                        <a class="btn btn-light btn-md-square rounded-circle"
+                            href="www.youtube.com/@puskesmasulakkarang6248"><i class="fab fa-youtube text-dark"></i></a>
                     </div>
                 </div>
             </div>
