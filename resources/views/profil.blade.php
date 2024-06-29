@@ -21,56 +21,30 @@
                             Comment</a>
                         <a href="#" class="text-dark link-hover"><i class="fa fa-arrow-up"></i> 1.5k Share</a>
                     </div> --}}
-                    <p class="my-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-                        has been the industry's standard dummy Lorem Ipsum has been the industry's standard dummy type and
-                        scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-                        leap into electronic
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                        and scrambled it to make a type specimen book.
+                    <p class="my-4">Di Kecamatan Padang Utara pada masa awal tahun 1970 puskesmas hanya terdapat di alai
+                        dan pustu (puskesmas pembantu) air tawar,karena kebutuhan masyarakat akan kesehatan dan semakin
+                        padatnya penduduk di daerah ulak karang dan sekitarnya maka didirikan Puskesmas impress didaerah
+                        Ulak Karang.
+                        Puskesmas Ulak Karang berdiri pada bulan Juni tahun 1975 yang di pimpin oleh dr. H. Syahrial Ismael
+                        dengan jumlah staf 7 orang, yang terdiri dari : <br>
+                        <br>a. Dokter Umum : 1 orang
+                        <br>b. Tata usaha : 1 orang
+                        <br>c. Bidan : 1 orang
+                        <br>d. Perawat : 2 orang
+                        <br>e. SPKE : 1 orang
+                        <br>f. Penjaga : 1 orang
                     </p>
-                    <p class="my-4">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                        and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-                        leap into electronic
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                        and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-                        leap into electronic
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                        and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-                        leap into electronic
+                    <p class="my-4">Pada tahun 1976 karna seiring dengan perkembangan jumlah penduduk serta kunjungan dan
+                        kebutuhan kesehatan masyarakat, Puskesmas Ulak Karang Padang terus meningkatkan staf serta
+                        programnya dan pada tahun 1980 staf serta program pada Puskesmas Ulak Karang sudah dinyatakan
+                        sesuai, sekarang Puskesmas Ulak Karang bisa di nyatakan menjadi salah satu puskesmas dengan
+                        fasilitas dan pelayanan yang cukup lengkap.
+                        Puskesmas Ulak Karang yang awalnya berada di Jl. Medan No.6, Ulak Karang Sel., Kec. Padang Utara,
+                        Kota Padang, Sumatera Barat, sekarang telah beralih lokasi di Jl. Beringin 1B Kelurahan Lolong
+                        Belanti, Kecamatan Padang Utara yang di resmikan oleh Walikota Padang Bapak Hendri Septa pada hari 
+                        Rabu tanggal 28 Desember 2022.
                     </p>
-                    <p class="my-4">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                        and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-                        leap into electronic
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                        and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-                        leap into electronic
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                        and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-                        leap into electronic
-                    </p>
-                    <p class="my-4">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                        and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-                        leap into electronic
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                        and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-                        leap into electronic
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                        and scrambled it to make a type specimen book. It has survived not only five centuries, but also the
-                        leap into electronic
-                    </p>
+                    
                 </div>
             </div>
         </div>

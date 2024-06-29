@@ -23,11 +23,14 @@
                         href="https://wa.me/6281218173646?text=Halo,%20Tolong%20bantu%20saya%20ingin%20mengubah%20data%20akun%20rental%20mobil%20saya">
                         <span class="text-white">+62 812 1817 3646</span></a> --}}
                     <div class="d-flex line-h mt-2">
-                        <a class="btn btn-light me-2 btn-md-square rounded-circle" href="https://wa.me/6283196309831?text=Halo,%20Saya%20ingin%20bertanya%20tentang%20Website%20Puskesmas%20Ulak%20Karang"><i
+                        <a class="btn btn-light me-2 btn-md-square rounded-circle"
+                            href="https://wa.me/6283196309831?text=Halo,%20Saya%20ingin%20bertanya%20tentang%20Website%20Puskesmas%20Ulak%20Karang"><i
                                 class="fab fa-whatsapp text-dark"></i></a>
-                        <a class="btn btn-light me-2 btn-md-square rounded-circle" href=""><i
+                        <a class="btn btn-light me-2 btn-md-square rounded-circle"
+                            href="https://www.facebook.com/profile.php?id=100066913796750&mibextid=LQQJ4d"><i
                                 class="fab fa-facebook-f text-dark"></i></a>
-                        <a class="btn btn-light me-2 btn-md-square rounded-circle" href=""><i
+                        <a class="btn btn-light me-2 btn-md-square rounded-circle"
+                            href="https://www.instagram.com/puskesmasulakkarang?igsh=MTJyZGgydWZ0dTlndA=="><i
                                 class="fab fa-instagram text-dark"></i></a>
                         <a class="btn btn-light btn-md-square rounded-circle" href=""><i
                                 class="fab fa-youtube text-dark"></i></a>
@@ -119,7 +122,9 @@
                 <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->
                 <!--/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, ***/-->
                 <!--/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". ***/-->
-                Designed By <a class="border-bottom link-hover" href="https://wa.me/6283196309831?text=Halo,%20Saya%20ingin%20bertanya%20tentang%20Website%20Puskesmas%20Ulak%20Karang">Genta 1102101088</a> Distributed By
+                Designed By <a class="border-bottom link-hover"
+                    href="https://wa.me/6283196309831?text=Halo,%20Saya%20ingin%20bertanya%20tentang%20Website%20Puskesmas%20Ulak%20Karang">Genta
+                    1102101088</a> Distributed By
                 <a class="link-hover" href="https://stikeslandbouw.ac.id/">STIKES Dharma Landbouw</a>
             </div>
         </div>

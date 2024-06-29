@@ -10,14 +10,6 @@
                         <img src="{{ asset('images/puskesmas-profil.jpg') }}" class="img-fluid rounded w-100" alt="">
                         <div class="d-flex justify-content-center px-4 position-absolute flex-wrap"
                             style="bottom: 10px; left: 0;">
-                            {{-- <a href="#" class="text-white me-3 link-hover"><i class="fa fa-clock"></i> 06
-                                minute read</a>
-                            <a href="#" class="text-white me-3 link-hover"><i class="fa fa-eye"></i> 3.5k
-                                Views</a>
-                            <a href="#" class="text-white me-3 link-hover"><i class="fa fa-comment-dots"></i>
-                                05 Comment</a> 
-                                <i class="fa fa-arrow-up"></i>
-                            --}}
                             <a href="#" class="text-white link-hover">Puskesmas Ulak Karang
                             </a>
                         </div>
@@ -26,16 +18,17 @@
                         <a class="display-4 text-dark mb-0">Selamat datang di <br>Puskesmas Ulak
                             Karang</a>
                     </div>
-                    <p class="my-0">Puskesmas Ulak Karang didirikan pada tahun 1975. Pertama kali dipimpin oleh
-                        dr.
-                        Tamrin dengan 6 orang pegawai yang terdiri dari 1 orang bidan, 1 orang perawat, 1 orang tenaga
-                        sanitasi, 1 orang pembantu bidan, 1 orang pembantu perawat dan 1 orang tenaga tata usaha dengan
-                        11 program
-                        pokok. Wilayah kerja Puskesmas Ulak Karang setelah pemekaran kota Padang menjadi 11 kecamatan,
-                        Alai masuk
-                        ke Padang Utara dan 3 buah Pustu di bawah Puskesmas Alai menjadi milik Puskesmas Ulak Karang,
-                        sehingga pegawai
-                        Puskesmas Ulak Karang juga bertambah menjadi 15 orang.
+                    <p class="my-0">Pada tahun 1976 karna seiring dengan perkembangan jumlah penduduk serta kunjungan dan
+                        kebutuhan kesehatan masyarakat, Puskesmas Ulak Karang padang terus meningkatkan staf serta
+                        programnya dan pada tahun 1980 staf serta program pada Puskesmas Ulak Karang sudah dinyatakan
+                        sesuai, sekarang Puskesmas Ulak Karang bisa di nyatakan menjadi salah satu puskesmas dengan
+                        fasilitas dan pelayanan yang cukup lengkap pada awal tahun 1980-an.
+                    </p>
+                    <p class="my-0">Puskesmas Ulak Karang yang awalnya berada di Jl. Medan No.6, Ulak Karang Sel., Kec.
+                        Padang Utara,
+                        Kota Padang, Sumatera Barat, sekarang telah beralih lokasi di Jl. Beringin 1B Kelurahan Lolong
+                        Belanti, Kecamatan Padang Utara yang di resmikan oleh Walikota Padang Bapak Hendri Septa pada hari
+                        Rabu tanggal 28 Desember 2022.
                     </p>
                     <div>
                         <a href="/profil" class="link-hover">
@@ -49,8 +42,9 @@
                         <div class="row g-4 align-items-center">
                             <div class="col-md-6">
                                 <div class="rounded overflow-hidden">
-                                    <img src="{{ asset('assets-user/img/news-2.jpg') }}"
-                                        class="img-fluid rounded img-zoomin w-100" alt="">
+                                    <img src="{{ asset('images/sejarah-puskesmas.jpg') }}"
+                                        class="img-fluid rounded img-zoomin w-100" alt=""
+                                        style="height: 200px; object-fit: cover;">
                                 </div>
                             </div>
                             <div class="col-md-6">
